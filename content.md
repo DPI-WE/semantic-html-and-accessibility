@@ -112,11 +112,11 @@ The Web Content Accessibility Guidelines (WCAG) are a set of guidelines develope
 
 - Which HTML tag is used to define the main content of a document?
 - `<header>`
-  - Not correct. <header> is used for the header section of a document.
+  - Not correct. `<header>` is used for the header section of a document.
 - `<main>`
-  - Correct! <main> specifies the main content of a document.
+  - Correct! `<main>` specifies the main content of a document.
 - `<section>`
-  - Not correct. <section> is used to define sections of content, but not necessarily the main content.
+  - Not correct. `<section>` is used to define sections of content, but not necessarily the main content.
 {: .choose_best #main_tag title="Main Content Tag" points="1" answer="2"}
 
 - The `<footer>` tag is used to define the footer for a document or a section.
