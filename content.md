@@ -111,19 +111,19 @@ The Web Content Accessibility Guidelines (WCAG) are a set of guidelines develope
 {: .choose_best #semantic_html_purpose title="Purpose of Semantic HTML" points="1" answer="3"}
 
 - Which HTML tag is used to define the main content of a document?
-- <header>
-  - Not correct. <header> is used for the header section of a document.
-- <main>
-  - Correct! <main> specifies the main content of a document.
-- <section>
-  - Not correct. <section> is used to define sections of content, but not necessarily the main content.
+- `header`
+  - Not correct. `header` is used for the `header` section of a document.
+- `main`
+  - Correct! `main` specifies the main content of a document.
+- `section`
+  - Not correct. `section` is used to define sections of content, but not necessarily the main content.
 {: .choose_best #main_tag title="Main Content Tag" points="1" answer="2"}
 
-- The <footer> tag is used to define the footer for a document or a section.
+- The `footer` tag is used to define the footer for a document or a section.
 - True
-  - Correct! The <footer> tag defines a footer for a document or section.
+  - Correct! The `footer` tag defines a footer for a document or section.
 - False
-  - Not correct. <footer> is indeed used to define a footer.
+  - Not correct. `footer` is indeed used to define a footer.
 {: .choose_best #footer_tag title="Footer Tag" points="1" answer="1"}
 
 - Using semantic HTML tags can improve the SEO of a web page.
