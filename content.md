@@ -1,18 +1,20 @@
 # Semantic HTML and Accessibility 👓
 
-## Introduction to Semantic HTML
+## Semantic HTML
+
+### Introduction to Semantic HTML
 Semantic HTML is a coding style where the HTML tags convey the meaning of the content. By using semantic tags, we can make our web pages more understandable to both humans and machines, including search engines and assistive technologies.
 
-## Benefits of Semantic HTML
+### Benefits of Semantic HTML
 - **Improved Accessibility**: Screen readers and other assistive technologies can better interpret the content.
 - **Enhanced SEO**: Search engines can better understand and index the content.
 - **Better Maintainability**: Clear structure and meaning make the code easier to read and maintain.
 - **Consistent Styling**: Browsers apply default styles to semantic elements, which can save time in styling.
 
-## Common Semantic HTML Tags
+### Common Semantic HTML Tags
 Here are some of the most common semantic HTML tags and their uses:
 
-### Structural Tags
+#### Structural Tags
 - `<header>`: Defines a header for a document or a section.
 - `<nav>`: Defines a container for navigation links.
 - `<main>`: Specifies the main content of a document.
@@ -21,7 +23,7 @@ Here are some of the most common semantic HTML tags and their uses:
 - `<aside>`: Defines content aside from the main content (e.g., sidebar).
 - `<footer>`: Defines a footer for a document or a section.
 
-### Text Content Tags
+#### Text Content Tags
 - `<h1>` to `<h6>`: Define headings, `<h1>` being the highest level and `<h6>` the lowest.
 - `<p>`: Defines a paragraph.
 - `<blockquote>`: Defines a block of quoted text.
@@ -33,10 +35,12 @@ Media Tags
 - `<audio>`: Defines sound content.
 - `<video>`: Defines video content.
 
-## Introduction to Accessibility
+## Accessibility
+
+### Introduction to Accessibility
 Accessibility refers to the design of products, devices, services, or environments for people who experience disabilities. In web development, this means making your website usable for as many people as possible.
 
-## Web Content Accessibility Guidelines (WCAG)
+### Web Content Accessibility Guidelines (WCAG)
 The Web Content Accessibility Guidelines (WCAG) are a set of guidelines developed by the World Wide Web Consortium (W3C) to make web content more accessible. The guidelines are organized around four principles, often remembered by the acronym POUR:
 
 - **Perceivable**: Information and user interface components must be presentable to users in ways they can perceive.
@@ -44,7 +48,7 @@ The Web Content Accessibility Guidelines (WCAG) are a set of guidelines develope
 - **Understandable**: Information and the operation of user interface must be understandable.
 - **Robust**: Content must be robust enough to be interpreted by a wide variety of user agents, including assistive technologies.
 
-## Key Accessibility Practices
+### Key Accessibility Practices
 - **Use Semantic HTML Tags**: Helps screen readers and other assistive technologies understand the structure and content of your web pages.
 - **Provide Text Alternatives for Non-Text Content**: Use alt attributes for images, and provide transcripts for audio and video content.
 - **Ensure Sufficient Color Contrast**: Make sure text is readable against its background.
